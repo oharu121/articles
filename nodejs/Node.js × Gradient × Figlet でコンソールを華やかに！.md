@@ -1,3 +1,5 @@
+# Node.js × Gradient × Figlet でコンソールを華やかに！
+
 # はじめに
 
 以下の記事を参考に [`oh-my-logo`](https://www.npmjs.com/package/oh-my-logo) を試してみたところ…

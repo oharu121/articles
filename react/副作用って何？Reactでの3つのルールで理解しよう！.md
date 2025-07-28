@@ -1,3 +1,5 @@
+# 副作用って何？Reactでの3つのルールで理解しよう！
+
 # はじめに
 
 Reactを使っていると、`useEffect` や `localStorage`、API呼び出しなど、いわゆる **副作用（side effect）** にぶつかることが多くなります。

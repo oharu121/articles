@@ -1,3 +1,5 @@
+# TypeScriptでCouchbaseクラスを実装する（API）
+
 # はじめに
 
 社内ツールなどでCouchbaseを操作する必要があるとき、シンプルにAPI経由で読み書きできるクラスを用意しておくと便利です。この記事では、CouchbaseのREST APIおよびN1QLクエリを `curl` で叩くことでデータを操作する `Couchbase` クラスの実装を紹介します。

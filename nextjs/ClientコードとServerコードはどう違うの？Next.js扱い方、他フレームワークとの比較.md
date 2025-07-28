@@ -1,3 +1,5 @@
+# ClientコードとServerコードはどう違うの？Next.js扱い方、他フレームワークとの比較
+
 # はじめに
 
 Next.js（App Router）を使い始めると、まずぶつかるのが **Server Component** と **Client Component** の違いです。

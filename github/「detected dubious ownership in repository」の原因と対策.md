@@ -1,3 +1,5 @@
+# 「detected dubious ownership in repository」の原因と対策
+
 # はじめに
 
 Gitを操作していると、ある日突然 `fatal: detected dubious ownership in repository` という見慣れないエラーメッセージが表示されることがあります。これはGitのセキュリティ機能によるもので、決して怖いものではありません。

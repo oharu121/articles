@@ -1,3 +1,5 @@
+# KintoneのSDKで業務レポートを自動出力する方法
+
 # はじめに 
 
 業務でKintoneを使っていて、「条件に合うレコードだけ抽出してCSV出力したい」と思ったことはありませんか？この記事では、[公式のKintone REST API Client SDK](https://github.com/kintone/js-sdk/tree/master/packages/rest-api-client) を使って、Kintoneからデータを取得し、整形する方法をご紹介します。

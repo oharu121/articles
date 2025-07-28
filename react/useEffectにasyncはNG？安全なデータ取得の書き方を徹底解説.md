@@ -1,3 +1,5 @@
+# useEffectにasyncはNG？安全なデータ取得の書き方を徹底解説
+
 # はじめに
 
 Reactでデータフェッチを行うとき、`useEffect`と`async/await`を組み合わせるのはよくあるパターンです。

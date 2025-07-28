@@ -1,3 +1,5 @@
+# Google Gemini を使ってコンテンツ生成するユーティリティ関数の実装
+
 # はじめに
 
 最近話題の Google の生成AI「Gemini」。公式の npm パッケージ [`@google/generative-ai`](https://www.npmjs.com/package/@google/generative-ai) を使えば、Node.js や Next.js プロジェクトでも簡単に扱えます。

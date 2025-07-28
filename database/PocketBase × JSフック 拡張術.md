@@ -1,3 +1,5 @@
+# PocketBase × JSフック 拡張術
+
 # はじめに
 [**PocketBase**](https://pocketbase.io/) は、Go製の軽量バックエンド。単体バイナリで API + 管理画面 + DB（SQLite）が起動でき、**フロントエンド開発者にとって理想的な開発環境**を提供してくれます。
 

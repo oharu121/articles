@@ -1,3 +1,5 @@
+# Ruby on Railsでの使い方
+
 # はじめに
 
 Ruby on Railsでは、テンプレート内にRubyコードを埋め込むために **ERB（Embedded Ruby）** を使用します。その中でもよく登場するのが `<%= %>` と `<% %>` です。
